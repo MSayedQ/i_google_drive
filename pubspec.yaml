@@ -1,10 +1,10 @@
 name: i_google_drive
 description: A comprehensive Flutter package for uploading, downloading, and managing files in Google Drive with easy-to-use API and full authentication support.
 version: 1.0.0
-homepage: https://github.com/yourusername/i_google_drive
-repository: https://github.com/yourusername/i_google_drive
-issue_tracker: https://github.com/yourusername/i_google_drive/issues
-documentation: https://github.com/yourusername/i_google_drive#readme
+homepage: https://github.com/MSayedQ/i_google_drive
+repository: https://github.com/MSayedQ/i_google_drive
+issue_tracker: https://github.com/MSayedQ/i_google_drive/issues
+documentation: https://github.com/MSayedQ/i_google_drive#readme
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
